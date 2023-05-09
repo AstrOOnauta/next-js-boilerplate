@@ -1,0 +1,62 @@
+{
+  "name": "next-13-boilerplate",
+  "author": "AstrOOnauta (https://github.com/AstrOOnauta)",
+  "description": "Boilerplate NextJS 13 + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "prettier": "prettier src --check .",
+    "lint": "next lint",
+    "lint-staged": "lint-staged",
+    "husky-install": "husky install",
+    "type-check": "tsc --project tsconfig.json --pretty --noEmit && eslint --fix . && prettier --write .",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "2.6.0",
+    "@emotion/react": "11.10.8",
+    "@emotion/styled": "11.10.8",
+    "framer-motion": "10.12.4",
+    "next": "13.3.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "4.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.16.3",
+    "@types/react": "18.2.0",
+    "@types/react-dom": "18.2.1",
+    "@typescript-eslint/eslint-plugin": "5.59.1",
+    "cypress": "12.9.0",
+    "eslint": "8.39.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-config-next": "13.3.2",
+    "eslint-config-prettier": "8.8.0",
+    "eslint-plugin-jsx-a11y": "6.7.1",
+    "eslint-plugin-prettier": "4.2.1",
+    "eslint-plugin-react": "7.32.2",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "eslint-plugin-security": "1.7.1",
+    "eslint-plugin-simple-import-sort": "10.0.0",
+    "eslint-plugin-sonarjs": "0.19.0",
+    "husky": "8.0.3",
+    "lint-staged": "13.2.2",
+    "prettier": "2.8.8",
+    "typescript": "5.0.4"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json,css,md,html}": [
+      "eslint --fix",
+      "prettier --write"
+    ]
+  }
+}
