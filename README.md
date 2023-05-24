@@ -52,6 +52,10 @@ This is a [Next.js](https://nextjs.org/) Boilerplate set up with Typescript, Cha
 
 `$ yarn` OR `$ npm i`
 
+- Put the Husky to work
+
+`$ yarn husky-install` OR `$ npm run husky-install`
+
 - Run the development server
 
 `$ yarn dev` OR `$ npm run dev`
