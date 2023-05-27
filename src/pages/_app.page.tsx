@@ -1,5 +1,7 @@
+import { Flex } from "@chakra-ui/react";
 import type { AppProps } from "next/app";
 import Head from "next/head";
+import Header from "~/components/Header";
 
 import GlobalContext from "~/shared/contexts/globalContext";
 
@@ -92,7 +94,10 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
           key="icon192"
         />
       </Head>
-      <Component {...pageProps} />
+      <Flex flexDir="column" minH="100vh" w="100%" p={6}>
+        <Header title="" />
+        <Component {...pageProps} />
+      </Flex>
     </GlobalContext>
   );
 };

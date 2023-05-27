@@ -2,14 +2,9 @@ import type { NextPage } from "next";
 import Link from "next/link";
 import { Button, Flex, Text } from "@chakra-ui/react";
 
-import ThemeButton from "~/components/ThemeButton";
-
 const NotFound: NextPage = () => {
   return (
-    <Flex flexDir="column" minH="100vh" w="100%" p={6}>
-      <Flex justifyContent="flex-end">
-        <ThemeButton aria-label="Toggle light-dark mode" />
-      </Flex>
+    <Flex flexDir="column" flex={1}>
       <Flex
         flexDirection="column"
         flex={1}
