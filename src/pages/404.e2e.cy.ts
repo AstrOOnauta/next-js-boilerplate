@@ -1,5 +1,5 @@
 describe("Not Found", () => {
-  const notFoundUrl = `${Cypress.config("baseUrl")}404-page-not-found`;
+  const notFoundUrl = `${Cypress.config("baseUrl")}/404-page-not-found`;
   const goToHomeLink = '[data-cy="go-to-home-link"]';
 
   it("should show the elements on the 404 page not found", () => {
@@ -50,7 +50,7 @@ describe("Not Found", () => {
     cy.then(() => {
       expect(urlRedirects).to.have.length(2);
       expect(urlRedirects[0]).to.eq(notFoundUrl);
-      expect(urlRedirects[1]).to.eq(Cypress.config("baseUrl"));
+      expect(urlRedirects[1]).to.eq(`${Cypress.config("baseUrl")}/`);
     });
   });
 });
