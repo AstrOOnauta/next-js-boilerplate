@@ -10,7 +10,7 @@ export default function Header({ title }: HeaderProps) {
   return (
     <Flex justifyContent="space-between">
       <Flex />
-      <Text>{title}</Text>
+      <Text data-cy="title-header">{title}</Text>
       <ThemeButton aria-label="Toggle light-dark mode" />
     </Flex>
   );
