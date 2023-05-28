@@ -14,7 +14,7 @@
     "husky-install": "husky install",
     "type-check": "tsc --project tsconfig.json --pretty --noEmit && eslint --fix . && prettier --write .",
     "cypress:open": "cypress open",
-    "cypress:run": "cypress run"
+    "cypress:run": "cypress run && cypress run --component"
   },
   "dependencies": {
     "@chakra-ui/react": "2.6.0",
