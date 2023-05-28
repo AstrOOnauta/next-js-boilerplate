@@ -4,7 +4,7 @@ import { Flex, Text } from "@chakra-ui/react";
 export default function Footer() {
   return (
     <Flex justifyContent="center">
-      <Text mr={1} fontWeight="medium">
+      <Text data-cy="footer-text" mr={1} fontWeight="medium">
         Powered by
       </Text>
       <Link

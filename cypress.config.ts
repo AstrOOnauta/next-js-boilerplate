@@ -1,6 +1,7 @@
 import { defineConfig } from "cypress";
 
 export default defineConfig({
+  chromeWebSecurity: false,
   component: {
     specPattern: "src/**/*.component.cy.{js,jsx,ts,tsx}",
     devServer: {
