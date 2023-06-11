@@ -42,7 +42,28 @@ This is a [Next.js](https://nextjs.org/) Boilerplate set up with Typescript, Cha
 - 🔍 SEO friendly;
 - 🚀 All productivity to your project.
 
-## Install
+## Automatic Installation
+
+- Install the create-next-13-boilerplate
+
+`$ yarn create next-13-boilerplate ` OR `$ npx create-next-13-boilerplate`
+
+- Put the Husky to work
+
+`$ yarn husky-install` OR `$ npm run husky-install`
+
+- Run the development server
+
+`$ yarn dev` OR `$ npm run dev`
+
+- and... ENJOY 🛠️🚧⚙️
+
+```
+    1. Open (http://localhost:3000) with your browser to see the result.
+    2. You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```
+
+## Manual Installation
 
 - Clone repository
 
