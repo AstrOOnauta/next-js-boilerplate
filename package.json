@@ -17,10 +17,10 @@
     "cypress:run": "cypress run && cypress run --component"
   },
   "dependencies": {
-    "@chakra-ui/react": "2.6.0",
-    "@emotion/react": "11.10.8",
-    "@emotion/styled": "11.10.8",
-    "framer-motion": "10.12.4",
+    "@chakra-ui/react": "2.7.0",
+    "@emotion/react": "11.11.1",
+    "@emotion/styled": "11.11.0",
+    "framer-motion": "10.12.16",
     "next": "13.3.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
