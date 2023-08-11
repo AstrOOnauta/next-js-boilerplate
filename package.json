@@ -26,29 +26,29 @@
     "next": "13.4.13",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-icons": "4.8.0"
+    "react-icons": "4.10.1"
   },
   "devDependencies": {
     "@types/node": "18.16.3",
     "@types/react": "18.2.0",
     "@types/react-dom": "18.2.1",
-    "@typescript-eslint/eslint-plugin": "5.59.1",
+    "@typescript-eslint/eslint-plugin": "6.3.0",
     "cypress": "12.17.3",
-    "eslint": "8.39.0",
+    "eslint": "8.47.0",
     "eslint-config-airbnb": "19.0.4",
-    "eslint-config-next": "13.3.2",
-    "eslint-config-prettier": "8.8.0",
+    "eslint-config-next": "13.4.13",
+    "eslint-config-prettier": "9.0.0",
     "eslint-plugin-jsx-a11y": "6.7.1",
-    "eslint-plugin-prettier": "4.2.1",
-    "eslint-plugin-react": "7.32.2",
+    "eslint-plugin-prettier": "5.0.0",
+    "eslint-plugin-react": "7.33.1",
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-security": "1.7.1",
     "eslint-plugin-simple-import-sort": "10.0.0",
-    "eslint-plugin-sonarjs": "0.19.0",
+    "eslint-plugin-sonarjs": "0.20.0",
     "husky": "8.0.3",
-    "lint-staged": "13.2.2",
-    "prettier": "2.8.8",
-    "typescript": "5.0.4"
+    "lint-staged": "13.2.3",
+    "prettier": "3.0.1",
+    "typescript": "5.1.6"
   },
   "husky": {
     "hooks": {
