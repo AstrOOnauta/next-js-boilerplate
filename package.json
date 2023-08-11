@@ -3,6 +3,7 @@
   "author": "AstrOOnauta (https://github.com/AstrOOnauta)",
   "description": "Boilerplate NextJS 13 + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)",
   "version": "0.1.0",
+  "license": "ISC",
   "bin": {
     "create-next-13-boilerplate": "./bin/cli.js"
   },
