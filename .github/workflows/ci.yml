@@ -36,8 +36,11 @@ jobs:
       - name: Linting
         run: yarn lint
 
-      - name: Test
-        run: yarn dev && yarn cypress:run
-
       - name: Build
         run: yarn build
+
+      - name: Cypress run
+        uses: cypress-io/github-action@v6
+        with:
+          build: yarn build
+          start: yarn start
