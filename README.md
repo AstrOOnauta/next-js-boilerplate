@@ -1,16 +1,47 @@
-## NEXT 13 BOILERPLATE
+<br>
 
 <div align="center">
-
-<img src="https://github.com/AstrOOnauta/next-13-boilerplate/blob/main/public/images/dev-libraries.jpg" alt="Boilerplate NextJS 13 + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)">
-
+    <img src="https://github.com/AstrOOnauta/next-13-boilerplate/blob/main/public/images/dev-libraries.jpg" alt="Boilerplate NextJS 13 + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)">
 </div>
 
 </br>
 
+<h1 align="center">NEXT 13 BOILERPLATE</h1>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/create-next-13-boilerplate">
+    <img src="https://img.shields.io/npm/v/create-next-13-boilerplate.svg?style=flat-square">
+  </a>
+  <a href="https://www.npmjs.com/package/create-next-13-boilerplate">
+    <img src="https://img.shields.io/npm/dt/create-next-13-boilerplate.svg?style=flat-square&color=success">
+  </a>
+  <a href="https://github.com/AstrOOnauta/next-13-boilerplate">
+    <img src="https://img.shields.io/github/stars/AstrOOnauta/next-13-boilerplate?style=flat-square&color=success"/>
+  </a>
+  <a href="https://github.com/AstrOOnauta/next-13-boilerplate/issues">
+    <img src="https://img.shields.io/github/issues/AstrOOnauta/next-13-boilerplate?style=flat-square&color=blue"/>
+  </a>
+  <a href="https://github.com/AstrOOnauta/next-13-boilerplate/pulls">
+    <img src="https://img.shields.io/github/issues-pr/AstrOOnauta/next-13-boilerplate?style=flat-square&color=blue"/>
+  </a>
+  <a href="https://github.com/AstrOOnauta/next-13-boilerplate/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/:license-isc-yellow.svg?style=flat-square"/>
+  </a>
+</p>
+
 This is a [Next.js](https://nextjs.org/) Boilerplate set up with Typescript, Chakra UI, Eslint, Prettier, Pre-commit (Husky + lint-staged) and Cypress.
 
 **Get this starter project and maximize your experience like DEVELOPER!!!**
+
+<br>
+
+<div align = "center">
+    <a href="https://www.buymeacoffee.com/astroonauta" target="_blank">
+        <img src="https://survivingmexico.files.wordpress.com/2018/07/button-gif.gif" alt="Buy Me A Coffee"     style="height: auto !important;width: 60% !important;">
+    </a>
+</div>
+
+<br>
 
 ## System Requirements
 
