@@ -19,11 +19,13 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
           key="viewport"
         />
         <meta name="rating" content="general" key="rating" />
+        <meta name="robots" content="index, follow" key="robots" />
         <meta
           name="author"
           content="AstrOOnauta (https://github.com/AstrOOnauta)"
           key="author"
         />
+        <meta property="og:title" content="Boilerplate Next 13" key="title" />
         <meta
           name="description"
           content="Boilerplate NextJS 13 + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)"
@@ -34,7 +36,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
           content="https://github.com/AstrOOnauta/next-13-boilerplate"
           key="url"
         />
-        <meta property="og:title" content="Boilerplate Next 13" key="title" />
+        <meta property="og:type" content="website" />
         <meta
           property="og:image"
           content="/images/dev-libraries.jpg"
