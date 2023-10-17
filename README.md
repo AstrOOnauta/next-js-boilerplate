@@ -45,7 +45,7 @@ This is a [Next.js](https://nextjs.org/) Boilerplate set up with Typescript, Cha
 
 ## System Requirements
 
-- Node.js 16.8 or later;
+- Node.js 18.12.0 or later;
 - macOS, Windows (including WSL), and Linux are supported.
 
 ## 💻 Programming languages and technologies
