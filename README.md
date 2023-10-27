@@ -1,30 +1,30 @@
 <br>
 
 <div align="center">
-    <img src="https://github.com/AstrOOnauta/next-13-boilerplate/blob/main/public/images/dev-libraries.jpg" alt="Boilerplate NextJS 13 + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)">
+    <img src="https://github.com/AstrOOnauta/next-js-boilerplate/blob/main/public/images/dev-libraries.jpg" alt="Boilerplate Next JS + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)">
 </div>
 
 </br>
 
-<h1 align="center">NEXT 13 BOILERPLATE</h1>
+<h1 align="center">NEXT JS BOILERPLATE</h1>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/create-next-13-boilerplate">
-    <img src="https://img.shields.io/npm/v/create-next-13-boilerplate.svg?style=flat-square">
+  <a href="https://www.npmjs.com/package/create-next-js-boilerplate">
+    <img src="https://img.shields.io/npm/v/create-next-js-boilerplate.svg?style=flat-square">
   </a>
-  <a href="https://www.npmjs.com/package/create-next-13-boilerplate">
-    <img src="https://img.shields.io/npm/dt/create-next-13-boilerplate.svg?style=flat-square&color=success">
+  <a href="https://www.npmjs.com/package/create-next-js-boilerplate">
+    <img src="https://img.shields.io/npm/dt/create-next-js-boilerplate.svg?style=flat-square&color=success">
   </a>
-  <a href="https://github.com/AstrOOnauta/next-13-boilerplate">
-    <img src="https://img.shields.io/github/stars/AstrOOnauta/next-13-boilerplate?style=flat-square&color=success"/>
+  <a href="https://github.com/AstrOOnauta/next-js-boilerplate">
+    <img src="https://img.shields.io/github/stars/AstrOOnauta/next-js-boilerplate?style=flat-square&color=success"/>
   </a>
-  <a href="https://github.com/AstrOOnauta/next-13-boilerplate/issues">
-    <img src="https://img.shields.io/github/issues/AstrOOnauta/next-13-boilerplate?style=flat-square&color=blue"/>
+  <a href="https://github.com/AstrOOnauta/next-js-boilerplate/issues">
+    <img src="https://img.shields.io/github/issues/AstrOOnauta/next-js-boilerplate?style=flat-square&color=blue"/>
   </a>
-  <a href="https://github.com/AstrOOnauta/next-13-boilerplate/pulls">
-    <img src="https://img.shields.io/github/issues-pr/AstrOOnauta/next-13-boilerplate?style=flat-square&color=blue"/>
+  <a href="https://github.com/AstrOOnauta/next-js-boilerplate/pulls">
+    <img src="https://img.shields.io/github/issues-pr/AstrOOnauta/next-js-boilerplate?style=flat-square&color=blue"/>
   </a>
-  <a href="https://github.com/AstrOOnauta/next-13-boilerplate/blob/main/LICENSE.md">
+  <a href="https://github.com/AstrOOnauta/next-js-boilerplate/blob/main/LICENSE.md">
     <img src="https://img.shields.io/:license-isc-yellow.svg?style=flat-square"/>
   </a>
 </p>
@@ -75,9 +75,9 @@ This is a [Next.js](https://nextjs.org/) Boilerplate set up with Typescript, Cha
 
 ## Automatic Installation
 
-- Install the create-next-13-boilerplate
+- Install the create-next-js-boilerplate
 
-`$ yarn create next-13-boilerplate ` OR `$ npx create-next-13-boilerplate`
+`$ yarn create next-js-boilerplate` OR `$ npx create-next-js-boilerplate`
 
 - Put the Husky to work
 
@@ -98,7 +98,7 @@ This is a [Next.js](https://nextjs.org/) Boilerplate set up with Typescript, Cha
 
 - Clone repository
 
-`$ git clone https://github.com/AstrOOnauta/next-13-boilerplate.git`
+`$ git clone https://github.com/AstrOOnauta/next-js-boilerplate.git`
 
 - Install dependencies
 

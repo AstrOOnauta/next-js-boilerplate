@@ -10,7 +10,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
   return (
     <GlobalContext>
       <Head>
-        <title>Boilerplate NextJS 13</title>
+        <title>Boilerplate Next JS</title>
         <meta charSet="UTF-8" key="charset" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" key="http-equiv" />
         <meta
@@ -25,15 +25,15 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
           content="AstrOOnauta (https://github.com/AstrOOnauta)"
           key="author"
         />
-        <meta property="og:title" content="Boilerplate Next 13" key="title" />
+        <meta property="og:title" content="Next JS Boilerplate" key="title" />
         <meta
           name="description"
-          content="Boilerplate NextJS 13 + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)"
+          content="Boilerplate Next JS + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)"
           key="description"
         />
         <meta
           property="og:url"
-          content="https://github.com/AstrOOnauta/next-13-boilerplate"
+          content="https://github.com/AstrOOnauta/next-js-boilerplate"
           key="url"
         />
         <meta property="og:type" content="website" />
@@ -47,7 +47,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
         <meta property="og:image:height" content="630" key="image:height" />
         <meta
           property="og:image:alt"
-          content="Boilerplate NextJS 13 + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)"
+          content="Boilerplate Next JS + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)"
           key="image:alt"
         />
         <link

@@ -6,7 +6,7 @@ const Home: NextPage = () => {
     <Flex flexDir="column" flex={1}>
       <Flex flex={1} alignItems="center" justifyContent="center">
         <Text data-cy="title" fontSize="2xl" fontWeight="bold">
-          Boilerplate NextJS 13
+          Boilerplate Next JS
         </Text>
       </Flex>
     </Flex>

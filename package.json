@@ -1,11 +1,11 @@
 {
-  "name": "create-next-13-boilerplate",
+  "name": "create-next-js-boilerplate",
   "author": "AstrOOnauta (https://github.com/AstrOOnauta)",
-  "description": "Boilerplate NextJS 13 + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)",
-  "version": "0.1.5",
+  "description": "Boilerplate Next JS + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)",
+  "version": "13.5.6",
   "license": "ISC",
   "bin": {
-    "create-next-13-boilerplate": "./bin/cli.js"
+    "create-next-js-boilerplate": "./bin/cli.js"
   },
   "scripts": {
     "dev": "next dev",
