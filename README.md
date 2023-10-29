@@ -43,6 +43,12 @@ This is a [Next.js](https://nextjs.org/) Boilerplate set up with Typescript, Cha
 
 <br>
 
+## Old Versions
+
+- [Version 13.x](https://github.com/AstrOOnauta/next-js-boilerplate/tree/v13.x)
+
+<br>
+
 ## System Requirements
 
 - Node.js 18.12.0 or later;
