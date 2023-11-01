@@ -2,7 +2,7 @@
   "name": "create-next-js-boilerplate",
   "author": "AstrOOnauta (https://github.com/AstrOOnauta)",
   "description": "Boilerplate Next JS + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)",
-  "version": "14.0.0",
+  "version": "14.0.1",
   "license": "ISC",
   "bin": {
     "create-next-js-boilerplate": "./bin/cli.js"
@@ -19,6 +19,14 @@
     "cypress:open": "cypress open",
     "cypress:run": "cypress run && cypress run --component"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstrOOnauta/next-js-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AstrOOnauta/next-js-boilerplate/issues"
+  },
+  "homepage": "https://github.com/AstrOOnauta/next-js-boilerplate",
   "dependencies": {
     "@chakra-ui/react": "2.8.1",
     "@emotion/react": "11.11.1",
