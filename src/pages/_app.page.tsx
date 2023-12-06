@@ -50,6 +50,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
           content="Boilerplate Next JS + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)"
           key="image:alt"
         />
+        <meta name="twitter:card" content="summary_large_image" />
         <link
           rel="apple-touch-icon"
           type="image/png"
