@@ -6,7 +6,7 @@
 
 </br>
 
-<h1 align="center">NEXT JS BOILERPLATE</h1>
+<h1 align="center">NEXT JS 14+ BOILERPLATE</h1>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/create-next-js-boilerplate">
