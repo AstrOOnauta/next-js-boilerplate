@@ -2,7 +2,7 @@
   "name": "create-next-js-boilerplate",
   "author": "AstrOOnauta (https://github.com/AstrOOnauta)",
   "description": "Boilerplate Next JS + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)",
-  "version": "14.0.3",
+  "version": "14.0.4",
   "license": "ISC",
   "bin": {
     "create-next-js-boilerplate": "./bin/cli.js"
