@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/AstrOOnauta/next-js-boilerplate",
   "dependencies": {
-    "@chakra-ui/react": "2.10.4",
+    "@chakra-ui/react": "3.3.3",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.0",
     "framer-motion": "10.18.0",
