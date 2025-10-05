@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/AstrOOnauta/next-js-boilerplate",
   "dependencies": {
-    "@chakra-ui/react": "2.10.4",
+    "@chakra-ui/react": "3.13.0",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.0",
     "framer-motion": "10.18.0",
@@ -54,7 +54,7 @@
     "eslint-plugin-security": "2.1.1",
     "eslint-plugin-simple-import-sort": "12.1.1",
     "eslint-plugin-sonarjs": "0.25.1",
-    "husky": "8.0.3",
+    "husky": "9.1.7",
     "lint-staged": "15.2.11",
     "prettier": "3.4.2",
     "typescript": "5.7.2"
