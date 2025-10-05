@@ -13,7 +13,7 @@ const runCommand = (command) => {
 
 const repoName = process.argv[2] || "my-app";
 const gitCheckoutCommand = `git clone --depth 1 https://github.com/AstrOOnauta/next-js-boilerplate.git ${repoName}`;
-const installDepsCommand = `cd ${repoName} && npm install`;
+const installDepsCommand = `cd ${repoName} && npm install --legacy-peer-deps`;
 
 console.log(`Cloning the repository with name ${repoName}`);
 
