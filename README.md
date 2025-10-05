@@ -6,7 +6,7 @@
 
 </br>
 
-<h1 align="center">NEXT JS 14+ BOILERPLATE</h1>
+<h1 align="center">NEXT JS 15 BOILERPLATE</h1>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/create-next-js-boilerplate">
@@ -45,13 +45,14 @@ This is a [Next.js](https://nextjs.org/) Boilerplate set up with Typescript, Cha
 
 ## Old Versions
 
+- [Version 14.x](https://github.com/AstrOOnauta/next-js-boilerplate/tree/v14.x)
 - [Version 13.x](https://github.com/AstrOOnauta/next-js-boilerplate/tree/v13.x)
 
 <br>
 
 ## System Requirements
 
-- Node.js 18.12.0 or later;
+- Node.js 22.x or later;
 - macOS, Windows (including WSL), and Linux are supported.
 
 ## 💻 Programming languages and technologies
