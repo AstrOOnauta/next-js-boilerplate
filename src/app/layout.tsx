@@ -1,4 +1,11 @@
 import React from "react";
+import { Poppins } from "next/font/google";
+
+const poppins = Poppins({
+  subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
+  display: "swap",
+});
 import type { Metadata } from "next";
 
 import GlobalContext from "~/shared/contexts/globalContext";
@@ -46,14 +53,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
-          rel="stylesheet"
-        />
         <meta charSet="UTF-8" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -64,7 +65,7 @@ export default function RootLayout({
           content="AstrOOnauta (https://github.com/AstrOOnauta)"
         />
       </head>
-      <body>
+      <body className={poppins.className}>
         <GlobalContext>
           <Flex flexDir="column" minH="100vh" w="100%" p={6}>
             <Header title="" />

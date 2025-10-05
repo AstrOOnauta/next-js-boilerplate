@@ -1,27 +1,22 @@
 "use client";
 
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { IconButton, IconButtonProps } from "@chakra-ui/react";
-import { FaSun, FaMoon } from "react-icons/fa";
+import { Sun, Moon } from "lucide-react";
 
 import { useColorMode } from "~/shared/contexts/colorMode";
 
-interface ThemeButtonProps extends IconButtonProps {}
-
-export default function ThemeButton(props: ThemeButtonProps) {
-  const [themeMode, setThemeMode] = useState<"light" | "dark">("light");
-
+export default function ThemeButton(props: IconButtonProps) {
   const { colorMode, toggleColorMode } = useColorMode();
 
-  useEffect(() => {
-    if (colorMode) {
-      setThemeMode(colorMode);
-    }
-  }, [colorMode]);
+  const handleClick: IconButtonProps["onClick"] = (event) => {
+    toggleColorMode();
+    props.onClick?.(event as any);
+  };
 
   return (
-    <IconButton {...props} data-cy="theme-button" onClick={toggleColorMode}>
-      {themeMode === "light" ? <FaSun /> : <FaMoon />}
+    <IconButton {...props} data-cy="theme-button" onClick={handleClick}>
+      {colorMode === "light" ? <Sun /> : <Moon />}
     </IconButton>
   );
 }

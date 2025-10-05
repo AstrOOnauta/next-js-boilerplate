@@ -23,9 +23,7 @@ describe("Theme Button", () => {
 
     callButtonHandler.buttonHandler();
 
-    cy.get("@buttonHandler").should((spy) => {
-      expect(spy).to.be.called;
-    });
+    cy.get("@buttonHandler").should("have.been.called");
 
     cy.get("@buttonHandler").should("have.been.calledOnce");
   });

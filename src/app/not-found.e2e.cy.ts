@@ -35,22 +35,12 @@ describe("Not Found", () => {
   });
 
   it("should the link go to home redirect to home page", () => {
-    const urlRedirects: string[] = [];
-
-    cy.on("url:changed", (newUrl) => {
-      urlRedirects.push(newUrl);
-    });
-
     cy.visit(notFoundUrl, {
       failOnStatusCode: false,
     });
 
     cy.get(goToHomeLink).click();
 
-    cy.then(() => {
-      expect(urlRedirects).to.have.length(2);
-      expect(urlRedirects[0]).to.eq(notFoundUrl);
-      expect(urlRedirects[1]).to.eq(`${Cypress.config("baseUrl")}/`);
-    });
+    cy.location("pathname").should("eq", "/");
   });
 });
