@@ -1,7 +1,9 @@
-import type { NextPage } from "next";
+"use client";
+
+import React from "react";
 import { Flex, Text } from "@chakra-ui/react";
 
-const Home: NextPage = () => {
+export default function HomePage() {
   return (
     <Flex flexDir="column" flex={1}>
       <Flex flex={1} alignItems="center" justifyContent="center">
@@ -11,6 +13,4 @@ const Home: NextPage = () => {
       </Flex>
     </Flex>
   );
-};
-
-export default Home;
+}

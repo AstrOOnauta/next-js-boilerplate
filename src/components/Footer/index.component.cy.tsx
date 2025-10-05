@@ -1,12 +1,16 @@
-import { mount } from "cypress/react18";
-
+import { mount } from "cypress/react";
+import GlobalContext from "~/shared/contexts/globalContext";
 import Footer from ".";
 
 describe("Footer", () => {
   const authorLinkElement = '[data-cy="author-link"]';
 
   it("should show the elements on the footer", () => {
-    mount(<Footer />);
+    mount(
+      <GlobalContext>
+        <Footer />
+      </GlobalContext>
+    );
 
     cy.get('[data-cy="footer-text"]').contains("Powered by");
 
@@ -16,7 +20,11 @@ describe("Footer", () => {
   });
 
   it("should fires a onclick event ", () => {
-    mount(<Footer />);
+    mount(
+      <GlobalContext>
+        <Footer />
+      </GlobalContext>
+    );
     let linkCalled = false;
 
     cy.get(authorLinkElement)
@@ -33,7 +41,11 @@ describe("Footer", () => {
   it("should redirect to the author's github", () => {
     const urlRedirects: string[] = [];
 
-    mount(<Footer />);
+    mount(
+      <GlobalContext>
+        <Footer />
+      </GlobalContext>
+    );
 
     cy.on("url:changed", (newUrl) => {
       urlRedirects.push(newUrl);

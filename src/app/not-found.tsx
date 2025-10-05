@@ -1,8 +1,8 @@
-import type { NextPage } from "next";
+import React from "react";
 import Link from "next/link";
 import { Button, Flex, Text } from "@chakra-ui/react";
 
-const NotFound: NextPage = () => {
+export default function NotFound() {
   return (
     <Flex flexDir="column" flex={1}>
       <Flex
@@ -50,6 +50,4 @@ const NotFound: NextPage = () => {
       </Flex>
     </Flex>
   );
-};
-
-export default NotFound;
+}

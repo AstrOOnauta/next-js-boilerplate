@@ -1,9 +1,14 @@
-import { mount } from "cypress/react18";
+import { mount } from "cypress/react";
+import GlobalContext from "~/shared/contexts/globalContext";
 import Header from ".";
 
 describe("Header", () => {
   it("should show the elements on the header", () => {
-    mount(<Header title="Cypress Test" />);
+    mount(
+      <GlobalContext>
+        <Header title="Cypress Test" />
+      </GlobalContext>
+    );
 
     cy.get('[data-cy="title-header"]')
       .should("be.visible")

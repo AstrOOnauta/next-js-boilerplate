@@ -1,6 +1,10 @@
+"use client";
+
 import React, { useEffect, useState } from "react";
-import { IconButton, IconButtonProps, useColorMode } from "@chakra-ui/react";
+import { IconButton, IconButtonProps } from "@chakra-ui/react";
 import { FaSun, FaMoon } from "react-icons/fa";
+
+import { useColorMode } from "~/shared/contexts/colorMode";
 
 interface ThemeButtonProps extends IconButtonProps {}
 
@@ -16,11 +20,8 @@ export default function ThemeButton(props: ThemeButtonProps) {
   }, [colorMode]);
 
   return (
-    <IconButton
-      {...props}
-      data-cy="theme-button"
-      onClick={toggleColorMode}
-      icon={themeMode === "light" ? <FaSun /> : <FaMoon />}
-    />
+    <IconButton {...props} data-cy="theme-button" onClick={toggleColorMode}>
+      {themeMode === "light" ? <FaSun /> : <FaMoon />}
+    </IconButton>
   );
 }
