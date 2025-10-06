@@ -32,7 +32,7 @@
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.0",
     "framer-motion": "12.23.22",
-    "lucide-react": "0.544.0",
+    "lucide-react": "0.545.0",
     "next": "15.5.4",
     "react": "19.0.0",
     "react-dom": "19.0.0"
