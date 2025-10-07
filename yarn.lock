@@ -263,10 +263,10 @@
     "@babel/helper-string-parser" "^7.27.1"
     "@babel/helper-validator-identifier" "^7.27.1"
 
-"@chakra-ui/react@3.27.0":
-  version "3.27.0"
-  resolved "https://registry.yarnpkg.com/@chakra-ui/react/-/react-3.27.0.tgz#d416204209e797a018779d7f4ddd8b266a6327f8"
-  integrity sha512-M1WTAErI2cYM/PB4h5Kf5CCAg70g3HCzVvTEhcf5ty8QrG6QybPf3RdWSpBlIy7qpjuEnQYpHLxM0jnFLArBgA==
+"@chakra-ui/react@3.27.1":
+  version "3.27.1"
+  resolved "https://registry.yarnpkg.com/@chakra-ui/react/-/react-3.27.1.tgz#76acf8e030ff13d2c83226cbcb4cbe39752b7963"
+  integrity sha512-cjvowtELfber0OKDWt2Udl/I4SVKnA89pFZA+I1EG6uwlUZRpgOdwQZVEQceMmc4iVRFbUJudoAuqWhQIl/Irw==
   dependencies:
     "@ark-ui/react" "^5.24.1"
     "@emotion/is-prop-valid" "^1.3.1"
