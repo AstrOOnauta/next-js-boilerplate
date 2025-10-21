@@ -849,10 +849,10 @@
   resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-19.2.0.tgz#97ebfc8400702db00d1177b06ade6720dda641c1"
   integrity sha512-brtBs0MnE9SMx7px208g39lRmC5uHZs96caOJfTjFcYSLHNamvaSMfJNagChVNkup2SdtOxKX1FDBkRSJe1ZAg==
 
-"@types/react@19.2.0":
-  version "19.2.0"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-19.2.0.tgz#8412946e7e1efb0de9bb59b3aa87676d96add385"
-  integrity sha512-1LOH8xovvsKsCBq1wnT4ntDUdCJKmnEakhsuoUSy6ExlHCkGP2hqnatagYTgFk6oeL0VU31u7SNjunPN+GchtA==
+"@types/react@19.2.2":
+  version "19.2.2"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-19.2.2.tgz#ba123a75d4c2a51158697160a4ea2ff70aa6bf36"
+  integrity sha512-6mDvHUFSjyT2B2yeNx2nUgMxh9LtOWvkhIU3uePn2I2oyNymUAX1NIsdgviM4CH+JSrp2D2hsMvJOkxY+0wNRA==
   dependencies:
     csstype "^3.0.2"
 
@@ -4999,10 +4999,10 @@ react-is@^16.13.1, react-is@^16.7.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react@19.0.0:
-  version "19.0.0"
-  resolved "https://registry.yarnpkg.com/react/-/react-19.0.0.tgz#6e1969251b9f108870aa4bff37a0ce9ddfaaabdd"
-  integrity sha512-V8AVnmPIICiWpGfm6GLzCR/W5FXLchHop40W4nXBmdlEceh16rCN8O8LNWm5bh5XUX91fh7KpA+W0TgMKmgTpQ==
+react@19.2.0:
+  version "19.2.0"
+  resolved "https://registry.yarnpkg.com/react/-/react-19.2.0.tgz#d33dd1721698f4376ae57a54098cb47fc75d93a5"
+  integrity sha512-tmbWg6W31tQLeB5cdIBOicJDJRR2KzXsV7uSK9iNfLWQ5bIZfxuPEHp7M8wiHyHnn0DD1i7w3Zmin0FtkrwoCQ==
 
 refa@^0.12.0, refa@^0.12.1:
   version "0.12.1"
