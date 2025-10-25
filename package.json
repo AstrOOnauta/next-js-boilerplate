@@ -1,9 +1,43 @@
 {
   "name": "create-next-js-boilerplate",
-  "author": "AstrOOnauta (https://github.com/AstrOOnauta)",
-  "description": "Boilerplate Next JS + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)",
-  "version": "15.5.6",
+  "version": "16.0.0",
+  "description": "Next.js 16 Boilerplate with TypeScript, Chakra UI, ESLint, Prettier, Husky, and Cypress — a complete starter template to build fast, scalable, and modern web applications.",
+  "author": {
+    "name": "AstrOOnauta",
+    "url": "https://github.com/AstrOOnauta"
+  },
   "license": "ISC",
+  "homepage": "https://github.com/AstrOOnauta/next-js-boilerplate#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AstrOOnauta/next-js-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AstrOOnauta/next-js-boilerplate/issues"
+  },
+  "keywords": [
+    "nextjs",
+    "next.js",
+    "nextjs-boilerplate",
+    "nextjs-starter",
+    "next.js-template",
+    "create-next-app",
+    "typescript",
+    "chakra-ui",
+    "eslint",
+    "prettier",
+    "husky",
+    "lint-staged",
+    "cypress",
+    "react",
+    "react-template",
+    "react-starter",
+    "frontend-boilerplate",
+    "nextjs-typescript",
+    "nextjs-cypress",
+    "developer-starter-kit",
+    "nextjs-16"
+  ],
   "bin": {
     "create-next-js-boilerplate": "./bin/cli.js"
   },
@@ -19,14 +53,6 @@
     "cypress:open": "cypress open",
     "cypress:run": "cypress run && cypress run --component"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AstrOOnauta/next-js-boilerplate.git"
-  },
-  "bugs": {
-    "url": "https://github.com/AstrOOnauta/next-js-boilerplate/issues"
-  },
-  "homepage": "https://github.com/AstrOOnauta/next-js-boilerplate",
   "dependencies": {
     "@chakra-ui/react": "3.28.0",
     "@emotion/react": "11.14.0",
