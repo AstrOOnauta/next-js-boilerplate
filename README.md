@@ -1,12 +1,8 @@
-<br>
-
 <div align="center">
-    <img src="https://github.com/AstrOOnauta/next-js-boilerplate/blob/main/public/images/dev-libraries.jpg" alt="Boilerplate Next JS + Typescript + Chakra UI + Prettier + ESLint + Pre-commit (Husky + Lint-staged) + Cypress (e2e + component)">
+    <img src="https://github.com/AstrOOnauta/next-js-boilerplate/blob/main/public/images/dev-libraries.jpg" alt="Next.js Boilerplate with TypeScript, Chakra UI, ESLint, Prettier, Husky, and Cypress setup">
 </div>
 
-</br>
-
-<h1 align="center">NEXT JS 15 BOILERPLATE</h1>
+# 🚀 Next.js 16 Boilerplate – TypeScript, Chakra UI, ESLint, Prettier, Husky & Cypress
 
 <p align="center">
   <a href="https://www.npmjs.com/package/create-next-js-boilerplate">
@@ -29,119 +25,193 @@
   </a>
 </p>
 
-This is a [Next.js](https://nextjs.org/) Boilerplate set up with Typescript, Chakra UI, Eslint, Prettier, Pre-commit (Husky + lint-staged) and Cypress.
+A complete **Next.js 16 starter template** configured with **TypeScript**, **Chakra UI**, **ESLint**, **Prettier**, **Husky**, and **Cypress**.  
+Perfect for developers who want to build fast, scalable, and modern web applications using the latest **Next.js** features.
 
-**Get this starter project and maximize your experience like DEVELOPER!!!**
+---
 
-<br>
+## 🧩 About This Boilerplate
 
-<div align = "center">
+This project is a **Next.js boilerplate** built with **TypeScript**, **Chakra UI**, **ESLint**, **Prettier**, **Husky**, and **Cypress** — designed to help you start new projects quickly and with the best development experience.
+
+It includes:
+
+- ⚙️ A clean, scalable architecture;
+- 🎨 Theming support (light/dark) with Chakra UI;
+- 🧪 E2E and component testing with Cypress;
+- ✅ Automated linting, formatting, and pre-commit checks;
+- 🚀 SEO-friendly configuration out of the box.
+
+**Get this starter project and maximize your experience as a developer!**
+
+---
+
+<div align="center">
     <a href="https://www.buymeacoffee.com/astroonauta" target="_blank">
-        <img src="https://survivingmexico.files.wordpress.com/2018/07/button-gif.gif" alt="Buy Me A Coffee"     style="height: auto !important;width: 60% !important;">
+        <img src="https://survivingmexico.files.wordpress.com/2018/07/button-gif.gif" alt="Buy Me A Coffee" style="height: auto !important;width: 60% !important;">
     </a>
 </div>
 
-<br>
+---
 
-## Old Versions
+## 🕰️ Old Versions
 
+- [Version 15.x](https://github.com/AstrOOnauta/next-js-boilerplate/tree/v15.x)
 - [Version 14.x](https://github.com/AstrOOnauta/next-js-boilerplate/tree/v14.x)
 - [Version 13.x](https://github.com/AstrOOnauta/next-js-boilerplate/tree/v13.x)
 
-<br>
+---
 
-## System Requirements
+## 🧠 System Requirements
 
-- Node.js 22.x or later;
-- macOS, Windows (including WSL), and Linux are supported.
+- Node.js **22.x or later**
+- macOS, Windows (including WSL), and Linux supported
 
-## 💻 Programming languages and technologies
+---
 
-- [NextJS](https://nextjs.org/)
+## 💻 Technologies Used
+
+- [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Chakra UI](https://chakra-ui.com/)
-- [Eslint](https://eslint.org/)
+- [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://typicode.github.io/husky/#/)
 - [Lint-staged](https://github.com/okonet/lint-staged)
 - [Cypress](https://www.cypress.io/)
 
-## Features
+---
 
-- ⚛️ All of Next's advantages (Live reload, SSR, SSG, native API... );
-- 🎨 Styling with Chakra UI;
-- 🌓 Setup with dark/light theme support;
-- 🛠 Types support by Typescript;
-- 📝 Code check and formatter by ESLint and Prettier;
-- ✅ Pre-commit check by Husky and Lint-staged;
-- 🧪 E2E and Component testing with Cypress;
-- ✨ Absolute imports `(~)`;
-- 💡 Minimal folder structure;
-- 🔍 SEO friendly;
-- 🚀 All productivity to your project.
+## 🚀 Features of the Next.js 16 Boilerplate
 
-## Automatic Installation
+- ⚛️ Full **Next.js** setup (SSR, SSG, API routes, and more)
+- 🎨 Styling with **Chakra UI**
+- 🌓 Dark and light theme configuration
+- 🛠 **TypeScript** support
+- 📝 Linting and formatting via **ESLint** + **Prettier**
+- ✅ Pre-commit hooks with **Husky** + **lint-staged**
+- 🧪 E2E and component testing via **Cypress**
+- ✨ Absolute imports (`~`)
+- 📁 Minimal and organized folder structure
+- 🔍 SEO-friendly configuration
+- ⚡ Ready for production deployment
 
-- Install the create-next-js-boilerplate
+---
 
-`$ yarn create next-js-boilerplate` OR `$ npx create-next-js-boilerplate`
+## ⚙️ Automatic Installation
 
-- Put the Husky to work
+### 1. Create a new project
 
-`$ yarn husky-install` OR `$ npm run husky-install`
-
-- Run the development server
-
-`$ yarn dev` OR `$ npm run dev`
-
-- and... ENJOY 🛠️🚧⚙️
-
-```
-    1. Open (http://localhost:3000) with your browser to see the result.
-    2. You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```bash
+yarn create next-js-boilerplate
+# OR
+npx create-next-js-boilerplate
 ```
 
-## Manual Installation
+### 2. Initialize Husky
 
-- Clone repository
-
-`$ git clone https://github.com/AstrOOnauta/next-js-boilerplate.git`
-
-- Install dependencies
-
-`$ yarn` OR `$ npm i`
-
-- Put the Husky to work
-
-`$ yarn husky-install` OR `$ npm run husky-install`
-
-- Run the development server
-
-`$ yarn dev` OR `$ npm run dev`
-
-- and... ENJOY 🛠️🚧⚙️
-
-```
-    1. Open (http://localhost:3000) with your browser to see the result.
-    2. You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```bash
+yarn husky-install
+# OR
+npm run husky-install
 ```
 
-## Terminal commands
+### 3. Run the development server
 
-- `dev`: runs your application on `localhost:3000`;
-- `build`: creates the production build version;
-- `start`: starts a simple server with the build production code;
-- `prettier`: runs the prettier commands in all components and pages;
-- `lint`: runs the lintering commands in all components and pages;
-- `lint-staged`: runs the linting & prettier commands to those files which are changed not all the project files;
-- `husky-install`: initialize the husky;
-- `type-check`: runs the linter in all components and pages;
-- `cypress:open`: runs cypress on browser to check e2e and components tests;
-- `cypress:run`: runs cypress on terminal to check e2e and components tests.
+```bash
+yarn dev
+# OR
+npm run dev
+```
 
-</br>
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.  
+Edit `pages/index.tsx` — the page updates automatically as you save.
+
+---
+
+## 🧰 Manual Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/AstrOOnauta/next-js-boilerplate.git
+```
+
+### 2. Install dependencies
+
+```bash
+yarn
+# OR
+npm install
+```
+
+### 3. Initialize Husky
+
+```bash
+yarn husky-install
+# OR
+npm run husky-install
+```
+
+### 4. Run the development server
+
+```bash
+yarn dev
+# OR
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) and start building!
+
+---
+
+## 🧑‍💻 Terminal Commands
+
+| Command         | Description                      |
+| --------------- | -------------------------------- |
+| `dev`           | Runs the app on `localhost:3000` |
+| `build`         | Creates the production build     |
+| `start`         | Runs a production server         |
+| `prettier`      | Formats all files                |
+| `lint`          | Runs ESLint                      |
+| `lint-staged`   | Lints only staged files          |
+| `husky-install` | Initializes Husky                |
+| `type-check`    | Runs TypeScript checks           |
+| `cypress:open`  | Opens Cypress UI                 |
+| `cypress:run`   | Runs Cypress tests in CLI        |
+
+---
+
+## 💡 Why Use This Template?
+
+- Save hours of setup time — everything is pre-configured
+- Enforce code quality and consistency automatically
+- Start coding immediately with TypeScript + Chakra UI
+- Perfect for MVPs, startups, or production-grade apps
+- Compatible with macOS, Windows, and Linux
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Feel free to **open an issue** or **submit a pull request** to improve this Next.js boilerplate.
+
+---
+
+## 📜 License
+
+This project is licensed under the [ISC License](./LICENSE.md).
+
+---
+
+## 📈 Keywords
+
+`nextjs boilerplate`, `next.js starter template`, `next.js 16`, `typescript`, `chakra-ui`, `eslint`, `prettier`, `husky`, `lint-staged`, `cypress`, `react starter`, `frontend boilerplate`, `create next app`
+
+---
 
 <div align="center">
-	<br>
-	Thanks for stopping by! 😁
+    <br>
+    <strong>Thanks for stopping by! 😁</strong>
 </div>
