@@ -54,7 +54,7 @@
     "cypress:run": "cypress run && cypress run --component"
   },
   "dependencies": {
-    "@chakra-ui/react": "3.28.1",
+    "@chakra-ui/react": "3.29.0",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.1",
     "framer-motion": "12.23.24",
