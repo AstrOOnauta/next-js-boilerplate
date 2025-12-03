@@ -60,7 +60,7 @@
     "framer-motion": "12.23.25",
     "lucide-react": "0.555.0",
     "next": "16.0.6",
-    "react": "19.0.0",
+    "react": "19.2.1",
     "react-dom": "19.0.0"
   },
   "devDependencies": {
@@ -68,7 +68,7 @@
     "@babel/preset-react": "7.28.5",
     "@babel/preset-typescript": "7.28.5",
     "@types/node": "24.10.1",
-    "@types/react": "19.2.2",
+    "@types/react": "19.2.7",
     "@types/react-dom": "19.2.2",
     "@typescript-eslint/eslint-plugin": "8.48.0",
     "babel-loader": "10.0.0",
