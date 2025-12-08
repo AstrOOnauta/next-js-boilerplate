@@ -1,6 +1,6 @@
 {
   "name": "create-next-js-boilerplate",
-  "version": "16.0.4",
+  "version": "16.0.7",
   "description": "Next.js 16 Boilerplate with TypeScript, Chakra UI, ESLint, Prettier, Husky, and Cypress — a complete starter template to build fast, scalable, and modern web applications.",
   "author": {
     "name": "AstrOOnauta",
